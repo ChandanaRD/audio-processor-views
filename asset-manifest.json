@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/audio-processor-views/static/css/main.fbfef061.chunk.css",
+    "main.js": "/audio-processor-views/static/js/main.f471f903.chunk.js",
+    "main.js.map": "/audio-processor-views/static/js/main.f471f903.chunk.js.map",
+    "runtime-main.js": "/audio-processor-views/static/js/runtime-main.1b8e1c7b.js",
+    "runtime-main.js.map": "/audio-processor-views/static/js/runtime-main.1b8e1c7b.js.map",
+    "static/js/2.ca2a418c.chunk.js": "/audio-processor-views/static/js/2.ca2a418c.chunk.js",
+    "static/js/2.ca2a418c.chunk.js.map": "/audio-processor-views/static/js/2.ca2a418c.chunk.js.map",
+    "static/js/3.900e1768.chunk.js": "/audio-processor-views/static/js/3.900e1768.chunk.js",
+    "static/js/3.900e1768.chunk.js.map": "/audio-processor-views/static/js/3.900e1768.chunk.js.map",
+    "index.html": "/audio-processor-views/index.html",
+    "static/css/main.fbfef061.chunk.css.map": "/audio-processor-views/static/css/main.fbfef061.chunk.css.map",
+    "static/js/2.ca2a418c.chunk.js.LICENSE.txt": "/audio-processor-views/static/js/2.ca2a418c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1b8e1c7b.js",
+    "static/js/2.ca2a418c.chunk.js",
+    "static/css/main.fbfef061.chunk.css",
+    "static/js/main.f471f903.chunk.js"
+  ]
+}
